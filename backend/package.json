@@ -18,7 +18,7 @@
     "@strapi/strapi": "4.1.11",
     "adm-zip": "^0.5.9",
     "better-sqlite3": "7.4.6",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
     "mysql": "^2.18.1",
     "strapi": "^3.6.11"
