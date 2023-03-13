@@ -15,7 +15,7 @@
     "@strapi/plugin-i18n": "4.1.11",
     "@strapi/plugin-users-permissions": "4.1.11",
     "@strapi/provider-email-nodemailer": "^4.3.0",
-    "@strapi/strapi": "4.1.11",
+    "@strapi/strapi": "4.7.1",
     "adm-zip": "^0.5.9",
     "better-sqlite3": "7.4.6",
     "jsonwebtoken": "^8.5.1",
