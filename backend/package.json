@@ -13,7 +13,7 @@
 
   "dependencies": {
     "@strapi/plugin-i18n": "4.1.11",
-    "@strapi/plugin-users-permissions": "4.1.11",
+    "@strapi/plugin-users-permissions": "4.7.1",
     "@strapi/provider-email-nodemailer": "^4.3.0",
     "@strapi/strapi": "4.1.11",
     "adm-zip": "^0.5.9",
